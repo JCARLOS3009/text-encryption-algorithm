@@ -15,4 +15,4 @@ Certifique-se de ter o Python instalado na sua máquina. Você pode baixá-lo [a
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/encryptor-python.git
+   git clone https://github.com/JCARLOS3009/text-encryption-algorithm.git
